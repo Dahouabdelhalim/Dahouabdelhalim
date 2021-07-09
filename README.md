@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dahouabdelhalim.github.io/Website_Portfolio/Blog.html](https://dahouabdelhalim.github.io/Website_Portfolio/Blog.html)
 
-- 💬 Ask me about **Machine learning, Deep learning , NLP**
+- 💬 Ask me about **Machine learning, Deep learning , NLP , Web developement **
 
 - 📫 How to reach me **dahou.halim1995@gmail.com**
 
