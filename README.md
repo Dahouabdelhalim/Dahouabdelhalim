@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelhalim hafedh DAHOU</h1>
 <h3 align="center">A passionate Data Scientist/Engineering</h3>
 
-- 🔭 I’m currently working on [Multi-task model for NER in Arabic Language]
+- 🔭 I’m currently working on [Multi-task model for NER in Arabic Language](Multi-task model for NER in Arabic Language)
 
 - 🌱 I’m currently learning **Web development, Software testing**
 
