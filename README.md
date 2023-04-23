@@ -7,15 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Verbal anaphora Identification in Arabic language**
 
-- 👨‍💻 All of my projects are available at [https://dahouabdelhalim.github.io/Website_Portfolio/](https://dahouabdelhalim.github.io/Website_Portfolio/)
-
-- 📝 I regularly write articles on [https://dahouabdelhalim.github.io/Website_Portfolio/Blog.html](https://dahouabdelhalim.github.io/Website_Portfolio/Blog.html)
+- 👨‍💻 All of my projects are available at [https://dahouabdelhalim.github.io/Website_Portfolio/](https://github.com/Dahouabdelhalim/Projects)
 
 - 💬 Ask me about **Machine learning, Deep learning , NLP , Web developement **
 
 - 📫 How to reach me **dahou.halim1995@gmail.com**
-
-- 📄 Know about my experiences [https://dahouabdelhalim.github.io/Website_Portfolio/About.html](https://dahouabdelhalim.github.io/Website_Portfolio/About.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
