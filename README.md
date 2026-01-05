@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelhalim hafedh DAHOU</h1>
 <h3 align="center">A passionate Data Scientist/Engineer</h3>
 
-- 🔭 I’m currently working on **Multi-task model for NER in Arabic Language**
-
-- 🌱 I’m currently learning **Web development, Software testing**
-
-- 👯 I’m looking to collaborate on **Verbal anaphora Identification in Arabic language**
-
-- 👨‍💻 All of my projects are available at [Projects and Papers](https://github.com/Dahouabdelhalim/Projects)
-
-- 💬 Ask me about **Machine learning, Deep learning , NLP , Web developement **
-
 - 📫 How to reach me **dahou.halim1995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
